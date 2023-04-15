@@ -6,16 +6,17 @@ const brand = ref("🦈 Carr EdUcateMe Academy")
 <template>
   <nav>
     <div class="wrapper">
-      <div class="brand">
+      <RouterLink :to="{name:'Home'}" class="brand">
         <span class="brand-title">{{ brand }}</span>
-      </div>
+      </RouterLink>
       <div class="menu">
-        <a href="#" class="menu-item">Home</a>
-        <a href="#" class="menu-item">Departments</a>
-        <a href="#" class="menu-item">Faculty</a>
-        <a href="#" class="menu-item">Students</a>
-        <a href="#" class="menu-login">Login</a>
+        <RouterLink :to="{ name: 'Home' }" href="#" class="menu-item">Home</RouterLink>
+        <RouterLink :to="{ name: 'Courses' }" href="#" class="menu-item">Courses</RouterLink>
+        <RouterLink :to="{ name: 'Faculty' }" href="#" class="menu-item">Faculty</RouterLink>
+        <RouterLink :to="{ name: 'Students' }" href="#" class="menu-item">Students</RouterLink>
+        <RouterLink :to="{ name: 'Login' }" href="#" class="menu-login">Login</RouterLink>
       </div>
+      
     </div>
   </nav>
 </template>

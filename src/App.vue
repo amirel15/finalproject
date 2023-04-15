@@ -6,4 +6,5 @@ import Motto from './components/Motto.vue'
 <template>
   <NavMenu />
   <Motto />
+  <RouterView />
 </template>

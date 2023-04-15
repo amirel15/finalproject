@@ -1,19 +1,22 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import HomePage from './views/HomePage.vue'
+import HomePage from './components/HomePage.vue'
+import LoginPage from './components/LoginPage.vue'
+import CoursesPage from './components/CoursesPage.vue'
+import FacultyPage from './components/FacultyPage.vue'
+import StudentPage from './components/StudentPage.vue'
+import NotFound from './components/NotFound.vue'
 
 const routes = [
   { path: '/', name: 'Home', component: HomePage },
-  { path: '/login', name: 'Login', component: () => import('./views/LoginPage.vue') },
-  { path: '/students', name: 'Students', component: () => import('./views/StudentPage.vue') },
-  { path: '/departments', name: 'Departments', component: () => import('./views/DepartmentPage.vue') },
-  { path: '/faculty', name: 'Faculty', component: () => import('./views/FacultyPage.vue') },
-
+  { path: '/login', name: 'Login', component: LoginPage },
+  { path: '/students', name: 'Students', component: StudentPage },
+  { path: '/courses', name: 'Courses', component: CoursesPage },
+  { path: '/faculty', name: 'Faculty', component: FacultyPage },
+  {path: '/:pathMatch(.*)*', name: 'NotFound', component: NotFound},
 ]
 
-const router = createRouter({
+export default createRouter({
   history: createWebHistory(),
   routes,
 })
-
-export default router
