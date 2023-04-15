@@ -4,7 +4,11 @@ import HomePage from '@/views/HomePage.vue'
 
 const routes = [
   { path: '/', name: 'Home', component: HomePage },
-  { path: '/other', name: 'Other', component: () => import('@/views/OtherPage.vue') },
+  { path: '/login', name: 'Login', component: () => import('@/views/LoginPage.vue') },
+  { path: '/student', name: 'Student', component: () => import('@/views/StudentPage.vue') },
+  { path: '/department', name: 'Department', component: () => import('@/views/DepartmentPage.vue') },
+  { path: '/faculty', name: 'Faculty', component: () => import('@/views/FacultyPage.vue') },
+
 ]
 
 const router = createRouter({
