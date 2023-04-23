@@ -4,7 +4,11 @@ import Motto from './components/Motto.vue'
 </script>
 
 <template>
-  <NavMenu />
+  <main>
+    <div class="sections">
+      <NavMenu />
   <Motto />
   <RouterView />
+  </div>
+  </main>
 </template>
