@@ -17,7 +17,7 @@ const dbUSers = [
     }
 ]
 
-const isAuthenicated = ref(false)
+const isAuthenticated = ref(false)
 const user = ref({})
 
 export const useAuth = () => {
@@ -25,7 +25,7 @@ export const useAuth = () => {
         const dbUser = dbUsers.find((u) => u.username === username && u.password === password)
         if (dbUser) {
             const { name, role, email, username } = dbUser
-            isAuthenicated.value = true
+            isAuthenticated.value = true
             user.value = { name, role, email, username }
             return true
         }
@@ -33,8 +33,8 @@ export const useAuth = () => {
     }
 
     const logout = () => {
-        isAuthenicated.value = false
+        isAuthenticated.value = false
         user.value = {}
     }
-    return {isAuthenicated, user, login, logout}
+    return {isAuthenticated, user, login, logout}
 }
