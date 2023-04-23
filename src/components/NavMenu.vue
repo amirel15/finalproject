@@ -12,14 +12,17 @@ const brand = ref("🦈 Carr EdUcateMe Academy")
       <RouterLink :to="{name:'Home'}" class="brand">
         <span class="brand-title">{{ brand }}</span>
       </RouterLink>
-      <div class="menu">
+      <div class="welcome">
+      <p v-show="isAuthenticated" class="px-2 py-4">
+          Welcome Back, 
+          <strong>{{user.name}}</strong>
+        </p>
+        </div>
+      <div class="menu">        
         <RouterLink :to="{ name: 'Home' }" href="#" class="menu-item">Home</RouterLink>
         <RouterLink :to="{ name: 'Courses' }" href="#" class="menu-item">Courses</RouterLink>
         <RouterLink :to="{ name: 'Faculty' }" href="#" class="menu-item">Faculty</RouterLink>
-        <p v-show="isAuthenticated" class="px-2 py-4">
-          Welcome Back 
-          <strong>user.name</strong>
-        </p>
+        
         <div v-if="isAuthenticated">
         <RouterLink :to="{ name: 'Students' }" href="#" class="menu-item">Students</RouterLink>
         <button href="#" class="menu-logout" @click="logout"> Logout</button>
@@ -42,6 +45,9 @@ nav {
         &-title {
           @apply text-2xl font-bold text-slate-200;
         }
+      }
+      .welcome {
+        @apply flex text-center text-xl;
       }
       .menu {
         @apply flex gap-5;

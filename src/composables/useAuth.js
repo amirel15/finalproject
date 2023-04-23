@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 
-const dbUSers = [
+const dbUsers = [
     {
         username: 'teacher',
         password: 'teacher',
