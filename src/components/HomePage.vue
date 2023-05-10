@@ -9,7 +9,7 @@ const route = useRoute()
 <template>
   <div class="wrapper">
   <div class="schoolimage">
-    <img class="school" src="/school.svg" alt="school"/>
+    🏫
   </div>
   <div class="history">
     <h1><b>About Us</b></h1>
@@ -18,7 +18,7 @@ const route = useRoute()
     <br/>
     Founders: John Carr & Roman Deacon
     <br/><br/>
-    Background: <br/>
+    <b>Background:</b><br/>
     About a deacade ago, Mr. Carr and Mr. Deacon, life long friends, saw how quickly and vast
     technology was advancing with the world and wanted to contribute to the change. For as long as they could remember, technology had always been
     a passion of theirs that it applied to every aspect of their professional lives. They both have at least
@@ -47,7 +47,7 @@ const route = useRoute()
   
         @apply flex flex-col container mx-auto py-5 gap-4;
     .schoolimage {
-        @apply rounded-md bg-blue-200 p-2;
+        @apply rounded-md bg-blue-200 p-2 text-center text-9xl;
     }
         .history {
         @apply rounded-md bg-blue-200 p-2 text-slate-900 text-center italic font-semibold;
