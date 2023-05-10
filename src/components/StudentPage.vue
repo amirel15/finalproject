@@ -75,39 +75,37 @@
 
         <div class="students-5">
             <div class="students-5-pic">
-              🧔🏻‍♂️
+              👨🏽
             </div>
             <div class="students-5-name">
-              Damon Salvatore
+              Lorenzo StCloud
             </div>
             <div class="students-5-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 514-216-5875 <br/>
+              Address: 8495 Technical St, McAllen, TX 78505
             </div>
             <div class="students-5-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: lstcloud@stu.educatemeacademy.com <br/>
+              Grade Level: Junior<br/>
+              Major: Information Technology<br/>
             </div>
         </div>
 
         <div class="students-6">
             <div class="students-6-pic">
-              🧔🏻‍♂️
+              👨‍🦰
             </div>
             <div class="students-6-name">
-              Damon Salvatore
+              Niklaus Mikaelson
             </div>
             <div class="students-6-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 357-258-1596 <br/>
+              Address: 48 88th St, Donna, TX 78537
             </div>
             <div class="students-6-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
+              Email: nmikaelson@stu.educatemeacademy.com <br/>
+              Grade Level: Freshman<br/>
               Major: Computer Science <br/>
-              Program: Computers & IT
             </div>
         </div>
 
@@ -116,241 +114,232 @@
               🧔🏻‍♂️
             </div>
             <div class="students-7-name">
-              Damon Salvatore
+              Ross Geller
             </div>
             <div class="students-7-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 857-246-1587 <br/>
+              Address: 748 Montez Blvd, San Antonio, TX 78210
             </div>
             <div class="students-7-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
+              Email: rgeller@stu.educatemeacademy.com <br/>
               Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Major: Cybersecurity <br/>
             </div>
         </div>
 
         <div class="students-8">
             <div class="students-8-pic">
-              🧔🏻‍♂️
+              👩🏿‍🦰
             </div>
             <div class="students-8-name">
-              Damon Salvatore
+              Rachel Green
             </div>
             <div class="students-8-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 754-869-5215 <br/>
+              Address: 345 Ortiz Circle, McAllen, TX 78505
             </div>
             <div class="students-8-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
+              Email: rgreen@stu.educatemeacademy.com <br/>
               Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Major: Cybersecurity <br/>
             </div>
         </div>
 
         <div class="students-9">
             <div class="students-9-pic">
-              🧔🏻‍♂️
+              👱🏻‍♂️
             </div>
             <div class="students-9-name">
-              Damon Salvatore
+              Joey Martinez
             </div>
             <div class="students-9-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 754-685-1247 <br/>
+              Address: 9283 10th St, Donna, TX 78537
             </div>
             <div class="students-9-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: jmartinez@stu.educatemeacademy.com <br/>
+              Grade Level: Sophomore<br/>
+              Major: Cybersecurity<br/>
             </div>
         </div>
 
         <div class="students-10">
             <div class="students-10-pic">
-              🧔🏻‍♂️
+              🧔🏽‍♂️
             </div>
             <div class="students-10-name">
-              Damon Salvatore
+              Johnny Carr
             </div>
             <div class="students-10-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 754-265-4124 <br/>
+              Address: 8493 Blue Sky St, Brownsville, TX 78523
             </div>
             <div class="students-10-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
+              Email: jcarr@stu.educatemeacademy.com <br/>
+              Grade Level: Sophomore<br/>
               Major: Computer Science <br/>
-              Program: Computers & IT
             </div>
         </div>
 
         <div class="students-11">
             <div class="students-11-pic">
-              🧔🏻‍♂️
+              👨🏼‍🦲
             </div>
             <div class="students-11-name">
-              Damon Salvatore
+              Roman Deacon
             </div>
             <div class="students-11-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 321-456-9875 <br/>
+              Address: 569 Goku Blvd, Houston, TX 77005
             </div>
             <div class="students-11-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
+              Email: rdeacon@stu.educatemeacademy.com <br/>
+              Grade Level: Freshman<br/>
+              Major: Web Development<br/>
             </div>
         </div>
 
         <div class="students-12">
             <div class="students-12-pic">
-              👩
+              🧔🏿‍♂️
             </div>
             <div class="students-12-name">
-              Elena Gilbert
+              Dominic Luca
             </div>
             <div class="students-12-personal">
-              Phone: 985-685-7598 <br/>
-              Address: 4307 11th St, San Antonio, TX 78210
+              Phone: 510-823-5487 <br/>
+              Address: 980 Gohan St, Dallas, TX 75032
             </div>
             <div class="students-12-educational">
-              Email: egilbert@stu.educatemeacademy.com <br/>
-              Grade Level: Sophomore<br/>
-              Major: Cybersecurity
+              Email: dluca@stu.educatemeacademy.com <br/>
+              Grade Level: Junior<br/>
+              Major: Information Technology
             </div>
         </div>
 
         <div class="students-13">
             <div class="students-13-pic">
-              👩🏼‍🦱
+              👱‍♂️
             </div>
             <div class="students-13-name">
-              Caroline Forbes
+              Daniel Harris
             </div>
             <div class="students-13-personal">
-              Phone: 754-215-4875 <br/>
-              Address: 234 Glenda Rd, Donna, TX 78537
+              Phone: 754-857-1414 <br/>
+              Address: 4231 Vegeta Dr, Dallas, TX 75032
             </div>
             <div class="students-13-educational">
-              Email: cforbes@stu.educatemeacademy.com <br/>
-              Grade Level: Sophomore<br/>
-              Major: Information Technology
+              Email: dharris@stu.educatemeacademy.com <br/>
+              Grade Level: Senior<br/>
+              Major: Cybersecurity
             </div>
         </div>
 
         <div class="students-14">
             <div class="students-14-pic">
-              👩🏾
+              👩🏽‍🦳
             </div>
             <div class="students-14-name">
-              Bonnie Bennet
+              Annalisa Hernandez
             </div>
             <div class="students-14-personal">
-              Phone: 546-857-9586 <br/>
-              Address: 5438 Spider Dr, Brownsville, TX 78523
+              Phone: 352-514-0014 <br/>
+              Address: 324 Bobby J Dr, Lubbock, TX 79404
             </div>
             <div class="students-14-educational">
-              Email: bbennet@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Web Development
+              Email: ahernandez@stu.educatemeacademy.com <br/>
+              Grade Level: Junior<br/>
+              Major: Information Technology
             </div>
         </div>
 
         <div class="students-15">
             <div class="students-15-pic">
-              🧔🏻‍♂️
+              👨🏻‍🦱
             </div>
             <div class="students-15-name">
-              Damon Salvatore
+              Ronaldo Zuniga
             </div>
             <div class="students-15-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 888-989-8787 <br/>
+              Address: 420 MJ Blvd, Weslaco, TX 78596
             </div>
             <div class="students-15-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: rzuniga@stu.educatemeacademy.com <br/>
+              Grade Level: Freshman<br/>
+              Major: Information Technology<br/>
             </div>
         </div>
 
         <div class="students-16">
             <div class="students-16-pic">
-              🧔🏻‍♂️
+              👨‍🦲
             </div>
             <div class="students-16-name">
-              Damon Salvatore
+              Reynaldo Yanez
             </div>
             <div class="students-16-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 585-757-4548 <br/>
+              Address: 241 United Way, Donna, TX 78537
             </div>
             <div class="students-16-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: ryanez@stu.educatemeacademy.com <br/>
+              Grade Level: Sophomore<br/>
+              Major: Cybersecurity<br/>
             </div>
         </div>
 
         <div class="students-17">
             <div class="students-17-pic">
-              🧔🏻‍♂️
+              👩🏾‍🦰
             </div>
             <div class="students-17-name">
-              Damon Salvatore
+              Diana Alvarado
             </div>
             <div class="students-17-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 226-654-7584 <br/>
+              Address: 325 Colonel Way, Edinburg, TX 78541
             </div>
             <div class="students-17-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: dalvarado@stu.educatemeacademy.com <br/>
+              Grade Level: Junior<br/>
+              Major: Cybersecurity<br/>
             </div>
         </div>
 
         <div class="students-18">
             <div class="students-18-pic">
-              🧔🏻‍♂️
+              👱🏽‍♀️
             </div>
             <div class="students-18-name">
-              Damon Salvatore
+              Selena Coronado
             </div>
             <div class="students-18-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 410-753-8269 <br/>
+              Address: 6374 Rainbow Dr, Houston, TX 77005
             </div>
             <div class="students-18-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
+              Email: scoronado@stu.educatemeacademy.com <br/>
               Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Major: Web Development<br/>
             </div>
         </div>
 
         <div class="students-19">
             <div class="students-19-pic">
-              🧔🏻‍♂️
+              👩🏻
             </div>
             <div class="students-19-name">
-              Damon Salvatore
+              Julianna Jimenez
             </div>
             <div class="students-19-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 857-469-2105 <br/>
+              Address: 369 Sidney Dr, Dallas, TX 75032
             </div>
             <div class="students-19-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
-              Major: Computer Science <br/>
-              Program: Computers & IT
+              Email: jjimenez@stu.educatemeacademy.com <br/>
+              Grade Level: Freshman<br/>
+              Major: Cybersecurity<br/>
             </div>
         </div>
 
@@ -359,17 +348,16 @@
               🧔🏻‍♂️
             </div>
             <div class="students-20-name">
-              Damon Salvatore
+              Armando Garcia
             </div>
             <div class="students-20-personal">
-              Phone: 999-999-9856 <br/>
-              Address: 123 Main St, McAllen, TX 78505
+              Phone: 456-213-0159 <br/>
+              Address: 8765 Kai St, Lubbock, TX 79404
             </div>
             <div class="students-20-educational">
-              Email: dsalvatore@stu.educatemeacademy.com <br/>
-              Grade Level: Senior<br/>
+              Email: agarcia@stu.educatemeacademy.com <br/>
+              Grade Level: Junior<br/>
               Major: Computer Science <br/>
-              Program: Computers & IT
             </div>
         </div>
 
@@ -383,7 +371,7 @@
 
 <style scoped lang="postcss">
 .wrapper {
-  @apply flex flex-col container mx-auto py-5 gap-4;
+  @apply flex flex-col container mx-auto p-11 gap-4;
 
   .students-1 {
         @apply rounded-md bg-green-200 p-2 text-slate-900 text-center;
