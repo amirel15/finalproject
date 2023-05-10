@@ -61,7 +61,7 @@ nav {
           @apply rounded-md bg-green-800 text-slate-200 px-3 py-1.5 hover:bg-green-400 hover:text-slate-800 hover:font-bold;
         }
          &-logout{
-        @apply rounded-md bg-red-300 text-slate-900 px-2 py-1.5 hover:bg-red-800 hover:text-slate-100;
+        @apply rounded-md bg-red-300 text-slate-900 px-3 py-1.5 hover:bg-red-800 hover:text-slate-100;
       }
     }
 

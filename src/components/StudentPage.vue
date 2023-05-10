@@ -18,6 +18,7 @@
               Major: Computer Science <br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-2">
             <div class="students-2-pic">
@@ -36,6 +37,7 @@
               Major: Cybersecurity
             </div>
         </div>
+        <br/>
 
         <div class="students-3">
             <div class="students-3-pic">
@@ -54,6 +56,7 @@
               Major: Information Technology
             </div>
         </div>
+        <br/>
 
         <div class="students-4">
             <div class="students-4-pic">
@@ -72,6 +75,7 @@
               Major: Web Development
             </div>
         </div>
+        <br/>
 
         <div class="students-5">
             <div class="students-5-pic">
@@ -90,6 +94,7 @@
               Major: Information Technology<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-6">
             <div class="students-6-pic">
@@ -108,6 +113,7 @@
               Major: Computer Science <br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-7">
             <div class="students-7-pic">
@@ -126,6 +132,7 @@
               Major: Cybersecurity <br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-8">
             <div class="students-8-pic">
@@ -144,6 +151,7 @@
               Major: Cybersecurity <br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-9">
             <div class="students-9-pic">
@@ -162,6 +170,7 @@
               Major: Cybersecurity<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-10">
             <div class="students-10-pic">
@@ -180,6 +189,7 @@
               Major: Computer Science <br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-11">
             <div class="students-11-pic">
@@ -198,6 +208,7 @@
               Major: Web Development<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-12">
             <div class="students-12-pic">
@@ -216,6 +227,7 @@
               Major: Information Technology
             </div>
         </div>
+        <br/>
 
         <div class="students-13">
             <div class="students-13-pic">
@@ -234,6 +246,7 @@
               Major: Cybersecurity
             </div>
         </div>
+        <br/>
 
         <div class="students-14">
             <div class="students-14-pic">
@@ -252,6 +265,7 @@
               Major: Information Technology
             </div>
         </div>
+        <br/>
 
         <div class="students-15">
             <div class="students-15-pic">
@@ -270,6 +284,7 @@
               Major: Information Technology<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-16">
             <div class="students-16-pic">
@@ -288,6 +303,7 @@
               Major: Cybersecurity<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-17">
             <div class="students-17-pic">
@@ -306,6 +322,7 @@
               Major: Cybersecurity<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-18">
             <div class="students-18-pic">
@@ -324,6 +341,7 @@
               Major: Web Development<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-19">
             <div class="students-19-pic">
@@ -342,6 +360,7 @@
               Major: Cybersecurity<br/>
             </div>
         </div>
+        <br/>
 
         <div class="students-20">
             <div class="students-20-pic">
@@ -371,7 +390,7 @@
 
 <style scoped lang="postcss">
 .wrapper {
-  @apply flex flex-col container mx-auto p-11 gap-4;
+  @apply flex flex-col container mx-auto p-1.5 gap-4;
 
   .students-1 {
         @apply rounded-md bg-green-200 p-2 text-slate-900 text-center;
